@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: s2danish@uwaterloo.ca | [Linkedin](https://www.linkedin.com/in/sabeehdanish/) | GitHub
 
-- ⚡ Fun fact: As a kid, I dreamed of designing games for Naughty Dog. Now, I’m working on turning my passion for engineering and technology into impactful real-world solutions.
+- ⚡ I’m working on turning my passion for engineering and technology into impactful real-world solutions.
 
 <!---
 RandomMota/RandomMota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
